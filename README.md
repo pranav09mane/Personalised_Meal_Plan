@@ -1,4 +1,5 @@
- Personalized Meal Plan Generator
+Personalized Meal Plan Generator
+
 A smart system that creates personalized meal plans based on individual caloric expenditure, dietary needs, and health goals.
 
 🚀 Project Overview
