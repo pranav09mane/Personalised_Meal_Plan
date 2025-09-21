@@ -9,20 +9,15 @@ This project is designed to help users receive tailored meal recommendations by 
 
 📊 Key Features
 📈 Caloric expenditure estimation based on personal details
-
 🥗 Meal recommendations aligned with health goals
-
 🍱 Balanced and diverse diet suggestions
-
 🛠️ Customizable inputs for dietary restrictions/preferences
-
 📁 Clean and structured dataset of food items with nutritional values
 
 🧠 Tech Stack
-Python (Data Processing, Backend Logic)
-
-Pandas, NumPy (Data Analysis)
-
-Matplotlib/Seaborn (Visualization)
+1. Python (Data Processing, Backend Logic)
+2. Pandas, NumPy (Data Analysis)
+3. Matplotlib/Seaborn (Visualization)
+4. ML algorithm - Random Forest regressor 
 
 [Future Scope: Flask or Streamlit for Web App UI]
